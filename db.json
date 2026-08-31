@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title ddd",
+      "content": "content 100"
+    },
+    {
+      "title": "sss",
+      "content": "ss",
+      "id": "wLFd0Vc1o8U"
+    },
+    {
+      "title": "ff",
+      "content": "fs",
+      "id": "NN2vuUoxEwI"
+    },
+    {
+      "title": "444",
+      "content": "444",
+      "id": "9IV-vE9NlAg"
+    },
+    {
+      "title": "as",
+      "content": "sad",
+      "id": "xfgKM3YpyFQ"
+    },
+    {
+      "title": "rrr ddd",
+      "content": "rrr",
+      "id": "WDxFJ6vN0TY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
